@@ -1,4 +1,4 @@
-package com.gmccreight.undertest;
+package com.gmccreight.undertest.models;
 
 public class Horse {
 

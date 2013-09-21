@@ -1,8 +1,10 @@
-package com.gmccreight.undertest;
+package com.gmccreight.undertest.ui;
 
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+
+import com.gmccreight.undertest.R;
 
 public class MainActivity extends Activity {
 
