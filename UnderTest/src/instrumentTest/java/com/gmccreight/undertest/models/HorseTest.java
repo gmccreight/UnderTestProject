@@ -1,10 +1,8 @@
-package com.gmccreight.undertest;
+package com.gmccreight.undertest.models;
 
 import android.test.AndroidTestCase;
 
-import com.gmccreight.undertest.models.Horse;
-
-public class HorseUnitTest extends AndroidTestCase {
+public class HorseTest extends AndroidTestCase {
 
     public void testOmgThatHorseCanTalk() {
         assertEquals("Wilbur", new Horse().getSaying());
