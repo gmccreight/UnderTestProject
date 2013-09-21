@@ -1,3 +1,5 @@
+package com.gmccreight.undertest;
+
 import android.test.AndroidTestCase;
 
 import com.gmccreight.undertest.models.Horse;
